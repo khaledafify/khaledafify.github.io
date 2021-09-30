@@ -73,23 +73,22 @@ Cloud Computing Service Providers like AWS ( Amazon Web Services ), GCP (Google 
 
 
 - 
-**Pay-as-you-go
-**
+# Pay-as-you-go
+
 Pay-as-you-go allows you to easily adapt to changing business needs without overcommitting budgets and improving your responsiveness to changes. With a pay-as-you-go model, you can adapt your business depending on need and not on forecasts, reducing the risk of overprovisioning or missing capacity.
 
 - 
-**Pay less by using more
-**
+# Pay less by using more
+
 With AWS, you can get volume based discounts and realize important savings as your usage increases. For services such as S3, pricing is tiered, meaning the more you use, the less you pay per GB. AWS also gives you options to acquire services that help you address your business needs.
 
 
 - 
-**Save when you commit
-**
+# Save when you commit
+
 For AWS Compute and AWS Machine Learning, Savings Plans offer savings over On-Demand in exchange for a commitment to use a specific amount (measured in $/hour) of an AWS service or a category of services, for a one- or three-year period.
 
 
-![download (2).jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1632952522704/oXaCwpJXw.jpeg)
 
 # Summary 
 
