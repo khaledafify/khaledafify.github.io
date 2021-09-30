@@ -1,7 +1,7 @@
 ---
 title: "Simplified Cloud Computing"
 date: 2021-09-30T11:53:44+02:00
-image: /mages/cloud-computing-header.webp
+image: /images/cloud-computing-header.webp
 ---
 
 
