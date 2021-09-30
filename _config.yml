@@ -1,0 +1,47 @@
+title: Khaled Afify
+description: C#/Go Software Engineer | SRE
+baseurl: ""
+url: https://www.khaledafify.com
+meta_description: A Software Engineer
+domain_name: https://www.khaledafify.com
+author: Khaled Afify
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-optional-front-matter
+
+exclude:
+  - .git
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+defaults:
+    - scope:
+        type: pages
+      values:
+        layout: default
+    - scope:
+        type: posts
+      values:
+        layout: post
+
+# Jekyll SEO tag
+twitter:
+  username: khaledsafify
+logo: /images/avatar.webp
+social:
+  name: Emad Elsaid
+  links:
+    - https://www.github.com/khaledafify
+    - https://www.twitter.com/khaledsafify
+    - https://www.facebook.com/khafify
+    - https://www.youtube.com/KhaledAfify
+    - https://www.linkedin.com/in/khaledafify
