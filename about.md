@@ -2,8 +2,7 @@
 profile: true
 ---
 
-An Egyptian software engineer, I do back-end most of the time, sometimes front-end
-for fun, I mainly work with Ruby and Go, you can find me on
+A Software Engineer with DevOps mindset have 4 years of experience in the high-tech Fintech and Banking Industry.i’ve gained a lot of experience in Microservice Architecture , Migrate Monolith Solutions to Microservices and using Cloud Computing Resources especially in AWS
 
 * [GitHub](https://www.github.com/khaledafify)
 * [Twitter](https://www.twitter.com/khaledsafify)
